@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer SAİD</h1>
+<h1 align="center">Hi 👋, I'm Ömer! </h1>
 <h3 align="center">İstanbul üniversitesi Cerrahpaşa eğitim kurumunda Elektrik Elektronik Mühendisliği öğrencisi</h3>
 
 <h3 align="left">Connect with me:</h3>
